@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:darkolivegreen;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	line-height: 18px;
+	width: 1450px;
+	background-color:lightcoral;
+	padding: 10px;
+}
+
+a:link {
+	color:mediumorchid;
+	background-color: antiquewhite;
+	padding: 1px;
+	line-height: 35px;
+	border: 0px ;
+}
+.container {
+    text-align: center;
+}
+h1 {font-size: 50px}
+h2 {font-size: 40px}
+h1 {font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color:darkcyan;
+}
+h2 {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+color:darkseagreen;}
+}
+body {background-color: antiquewhite}
